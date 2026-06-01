@@ -1,2 +1,7 @@
-# demo-escribania-marti
-Demo web para ESCRIBANIA MARTI — diseñada por eterlab.
+# ESCRIBANIA MARTI
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
